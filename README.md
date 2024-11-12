@@ -35,7 +35,7 @@
 **-Como Iniciar**
       No terminal, rodar o comando "node server.js" 
 
-**-Rotas**
+**-Rotas:**
       "/" - Home
       "/aboutUs" - Sobre nós
       "/ourTeam" - Nossa equipe
