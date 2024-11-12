@@ -36,24 +36,24 @@
       No terminal, rodar o comando "node server.js" 
 
 **-Rotas**
-    "/" - Home
-    "/aboutUs" - Sobre nós
-    "/ourTeam" - Nossa equipe
-    "/howWeWork" - Como nós trabalhamos
-    "/faq" - Perguntas mais frequentes
-    "/sustainability" - Um dos três pilares da green
-    "/product-development" - Um dos três pilares da green
-    "/comunity-workshops" - Um dos três pilares da green
-    "/services" - Nossos serviços (principais tipos produtos que queremos destacar)
-    "/soy" - Página de serviço
-    "/wheat" - Página de serviço
-    "/linseed" - Página de serviço
-    "/quinoa" - Página de serviço
-    "/chia" - Página de serviço
-    "/oat" - Página de serviço
-    "/update-user-info" - Página para atualizar dados da conta do usuário
-    "/user-account" - Página da conta do usuário
-    "/update-password" - Página para atualizar senha da conta do usuário
+      "/" - Home
+      "/aboutUs" - Sobre nós
+      "/ourTeam" - Nossa equipe
+      "/howWeWork" - Como nós trabalhamos
+      "/faq" - Perguntas mais frequentes
+      "/sustainability" - Um dos três pilares da green
+      "/product-development" - Um dos três pilares da green
+      "/comunity-workshops" - Um dos três pilares da green
+      "/services" - Nossos serviços (principais tipos produtos que queremos destacar)
+      "/soy" - Página de serviço
+      "/wheat" - Página de serviço
+      "/linseed" - Página de serviço
+      "/quinoa" - Página de serviço
+      "/chia" - Página de serviço
+      "/oat" - Página de serviço
+      "/update-user-info" - Página para atualizar dados da conta do usuário
+      "/user-account" - Página da conta do usuário
+      "/update-password" - Página para atualizar senha da conta do usuário
 
 
 
